@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 28.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 1080" style="enable-background:new 0 0 1920 1080;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2B0033;}
+	.st1{fill:#2E3181;stroke:#FF4B38;stroke-width:16;stroke-miterlimit:10;}
+	.st2{fill:#FF961E;}
+	.st3{fill:#64499C;}
+	.st4{fill:#9289EB;}
+	.st5{fill:#FF1B25;}
+	.st6{fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st7{fill:#FFFFFF;}
+	.st8{fill:#FF4B38;}
+	.st9{font-family:'CourierNewPS-BoldMT';}
+	.st10{font-size:32.2677px;}
+	.st11{font-size:17.4733px;}
+	.st12{fill:#FF961E;stroke:#F15A47;stroke-width:16;stroke-miterlimit:10;}
+	.st13{clip-path:url(#SVGID_00000106106743113233665330000001580628306990016172_);fill:#FF961E;}
+	
+		.st14{clip-path:url(#SVGID_00000176763477733581916890000005583520754043158205_);fill:url(#SVGID_00000075146232765916586980000004129590020011255722_);}
+	.st15{clip-path:url(#SVGID_00000050644465973167981910000001418658460010529979_);fill:#64499C;}
+	.st16{clip-path:url(#SVGID_00000050644465973167981910000001418658460010529979_);fill:#9289EB;}
+	.st17{clip-path:url(#SVGID_00000081617747535913766310000005802087737600190881_);fill:#64499C;}
+	.st18{clip-path:url(#SVGID_00000081617747535913766310000005802087737600190881_);fill:#9289EB;}
+	.st19{clip-path:url(#SVGID_00000137121347956445833880000011910215676263930537_);fill:#64499C;}
+	.st20{clip-path:url(#SVGID_00000137121347956445833880000011910215676263930537_);fill:#9289EB;}
+	.st21{fill:#2E7222;}
+	.st22{fill:#5E8438;}
+</style>
+<g id="bg">
+	<g>
+		<rect x="-1" y="-2" class="st0" width="1935" height="1082"/>
+	</g>
+</g>
+<g id="square_frame">
+</g>
+<g id="DRAWING">
+	<rect x="239" y="188" class="st2" width="177" height="78"/>
+	<rect x="417" y="188" class="st3" width="351" height="78"/>
+	<rect x="768" y="188" class="st4" width="176" height="78"/>
+	<rect x="242" y="268" class="st4" width="88" height="78"/>
+	<rect x="329" y="268" class="st2" width="175" height="78"/>
+	<rect x="506" y="267" class="st5" width="88" height="78"/>
+	<rect x="594" y="268" class="st4" width="262" height="78"/>
+	<rect x="857" y="268" class="st2" width="93" height="78"/>
+	<rect x="235" y="346" class="st2" width="93" height="78"/>
+	<rect x="330" y="344" class="st5" width="88" height="78"/>
+	<rect x="416" y="344" class="st3" width="351" height="78"/>
+	<rect x="767" y="346" class="st5" width="88" height="78"/>
+	<rect x="859" y="344" class="st3" width="88" height="78"/>
+	<rect x="235" y="424" class="st3" width="181" height="78"/>
+	<rect x="418" y="422" class="st5" width="88" height="78"/>
+	<rect x="506" y="422" class="st5" width="88" height="78"/>
+	<rect x="592" y="424" class="st2" width="177" height="78"/>
+	<rect x="769" y="424" class="st3" width="177" height="78"/>
+	<rect x="241" y="501" class="st3" width="177" height="78"/>
+	<rect x="416" y="502" class="st2" width="178" height="78"/>
+	<rect x="594" y="501" class="st4" width="262" height="78"/>
+	<rect x="858" y="499" class="st3" width="88" height="78"/>
+	<rect x="242" y="580" class="st3" width="177" height="78"/>
+	<rect x="418" y="580" class="st3" width="88" height="78"/>
+	<rect x="505" y="580" class="st3" width="351" height="78"/>
+	<rect x="856" y="580" class="st2" width="93" height="78"/>
+	<rect x="235" y="658" class="st2" width="93" height="78"/>
+	<rect x="329" y="659" class="st3" width="351" height="78"/>
+	<rect x="681" y="658" class="st4" width="262" height="78"/>
+	<rect x="242" y="737" class="st2" width="177" height="78"/>
+	<rect x="418" y="736" class="st3" width="351" height="78"/>
+	<rect x="768" y="737" class="st2" width="177" height="78"/>
+	<rect x="241" y="815" class="st3" width="351" height="78"/>
+	<rect x="592" y="815" class="st2" width="177" height="78"/>
+	<rect x="770" y="813" class="st5" width="88" height="78"/>
+	<rect x="855" y="815" class="st4" width="88" height="78"/>
+</g>
+<g id="grid">
+	<g>
+		<g>
+			<path class="st6" d="M961.79,909.41h-738v-738h738V909.41z M239.79,893.41h706v-706h-706V893.41z"/>
+		</g>
+		<g>
+			<path class="st7" d="M945.57,893.25H240V187.68h705.57V893.25z M241.95,891.3h701.68V189.63H241.95V891.3z"/>
+			<rect x="240.97" y="813.12" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="734.94" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="656.76" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="578.58" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="500.4" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="422.22" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="344.04" class="st7" width="703.63" height="1.95"/>
+			<rect x="240.97" y="265.86" class="st7" width="703.63" height="1.95"/>
+			<rect x="855.67" y="188.65" class="st7" width="1.95" height="703.63"/>
+			<rect x="767.72" y="188.65" class="st7" width="1.95" height="703.63"/>
+			<rect x="679.77" y="188.65" class="st7" width="1.95" height="703.63"/>
+			<rect x="591.81" y="188.65" class="st7" width="1.95" height="703.63"/>
+			<rect x="503.86" y="188.65" class="st7" width="1.95" height="703.63"/>
+			<rect x="415.91" y="188.65" class="st7" width="1.95" height="703.63"/>
+			<rect x="327.95" y="188.65" class="st7" width="1.95" height="703.63"/>
+		</g>
+	</g>
+	<rect x="1113" y="532" class="st5" width="81" height="78"/>
+	<rect x="1113" y="622" class="st2" width="162" height="78"/>
+	<rect x="1113" y="712" class="st4" width="243" height="78"/>
+	<rect x="1113" y="802" class="st3" width="324" height="78"/>
+	<g>
+		<path class="st7" d="M1052.36,550.91v31.17h5.75c1.37,0,2.35,0.26,2.93,0.79c0.58,0.53,0.88,1.22,0.88,2.07
+			c0,0.83-0.29,1.51-0.88,2.04c-0.58,0.53-1.56,0.79-2.93,0.79h-17.2c-1.37,0-2.35-0.26-2.93-0.79c-0.58-0.53-0.88-1.22-0.88-2.07
+			c0-0.83,0.29-1.51,0.88-2.04c0.58-0.53,1.56-0.79,2.93-0.79h5.75v-23.75l-5.08,1.33c-0.82,0.22-1.43,0.33-1.83,0.33
+			c-0.72,0-1.35-0.29-1.88-0.86c-0.53-0.57-0.79-1.28-0.79-2.11c0-0.76,0.19-1.36,0.58-1.79c0.39-0.44,1.2-0.82,2.44-1.15
+			L1052.36,550.91z"/>
+		<path class="st7" d="M1044.13,673.08h12.47c0.68-0.56,1.33-0.83,1.94-0.83c0.87,0,1.56,0.29,2.07,0.86
+			c0.51,0.57,0.76,1.56,0.76,2.94v2.72h-25.95v-6.03c10.26-8.46,16.45-13.91,18.58-16.33c1.07-1.24,1.61-2.42,1.61-3.53
+			c0-1.39-0.61-2.62-1.82-3.68c-1.21-1.06-2.83-1.6-4.85-1.6c-2.04,0-3.73,0.59-5.08,1.78c-0.7,0.63-1.27,1.57-1.7,2.81
+			c-0.26,0.78-0.62,1.33-1.07,1.67s-1.01,0.5-1.68,0.5c-0.78,0-1.45-0.28-2.01-0.83c-0.57-0.56-0.85-1.2-0.85-1.94
+			c0-1.11,0.51-2.5,1.54-4.17c1.03-1.67,2.53-3,4.5-4c1.97-1,4.12-1.5,6.43-1.5c3.59,0,6.54,1.09,8.83,3.26s3.45,4.81,3.45,7.9
+			c0,1.57-0.33,3.03-0.99,4.38c-0.66,1.34-2.24,3.2-4.74,5.57C1053.64,664.89,1049.82,668.24,1044.13,673.08z"/>
+		<path class="st7" d="M1057.58,750.74c1.69,1.15,2.95,2.48,3.78,3.99c0.83,1.51,1.25,3.2,1.25,5.07c0,2.02-0.55,3.88-1.65,5.6
+			c-1.1,1.71-2.7,3.01-4.79,3.89c-2.09,0.88-4.83,1.32-8.22,1.32c-4.41,0-7.72-0.68-9.95-2.06c-1.24-0.78-1.86-1.7-1.86-2.78
+			c0-0.81,0.27-1.5,0.82-2.07c0.55-0.57,1.21-0.85,1.99-0.85c0.54,0,1.09,0.19,1.67,0.56c0.81,0.56,1.58,0.93,2.31,1.11
+			c1.11,0.26,2.64,0.39,4.58,0.39c3.31,0,5.71-0.43,7.19-1.29s2.22-2.08,2.22-3.65c0-1.17-0.43-2.29-1.29-3.38
+			c-0.86-1.08-2.01-1.92-3.46-2.51c-0.83-0.33-2.24-0.56-4.22-0.69c-0.95-0.06-1.67-0.35-2.18-0.88c-0.51-0.53-0.76-1.18-0.76-1.96
+			c0-0.82,0.28-1.5,0.83-2.06c0.56-0.56,1.26-0.83,2.11-0.83c1.89,0,2.9-0.01,3.03-0.03c0.74-0.07,1.48-0.32,2.22-0.72
+			c0.74-0.41,1.34-0.97,1.79-1.68c0.45-0.71,0.68-1.45,0.68-2.21c0-1.2-0.53-2.25-1.6-3.12c-1.07-0.88-2.66-1.32-4.79-1.32
+			c-2.74,0-4.83,0.8-6.28,2.39c-0.43,0.46-0.77,0.76-1.03,0.89c-0.39,0.2-0.82,0.31-1.31,0.31c-0.78,0-1.44-0.28-2-0.83
+			c-0.56-0.56-0.83-1.24-0.83-2.06c0-1.28,0.85-2.52,2.56-3.72c2.48-1.76,5.58-2.64,9.31-2.64c3.52,0,6.34,1,8.47,3
+			c2.13,2,3.19,4.41,3.19,7.22c0,1.46-0.32,2.83-0.94,4.1C1059.78,748.5,1058.84,749.67,1057.58,750.74z"/>
+		<path class="st7" d="M1057.8,824.83v22.28c1.2,0,2.09,0.26,2.67,0.79c0.57,0.53,0.86,1.21,0.86,2.04c0,0.83-0.29,1.52-0.88,2.06
+			c-0.58,0.54-1.47,0.81-2.65,0.81v2.28c1.2,0,2.09,0.27,2.67,0.81c0.57,0.54,0.86,1.22,0.86,2.06c0,0.83-0.29,1.51-0.88,2.04
+			c-0.58,0.53-1.56,0.79-2.93,0.79h-7.64c-1.37,0-2.35-0.26-2.93-0.79c-0.58-0.53-0.88-1.22-0.88-2.07c0-0.83,0.29-1.51,0.88-2.04
+			c0.58-0.53,1.56-0.79,2.93-0.79h2.22v-2.28h-15.47v-4.75l13.64-23.22H1057.8z M1052.11,847.1v-14l-8.25,14H1052.11z"/>
+	</g>
+</g>
+<g id="text">
+	<text transform="matrix(1 0 0 1 1036.0859 213.0752)" class="st8 st9 st10">ALGORYTHM: IDEA &amp; INSTRUCTIONS</text>
+	<text transform="matrix(1 0 0 1 1035.7754 267.9072)"><tspan x="0" y="0" class="st8 st9 st11">A 4-SIDE PYRAMID DICE IS BEING THROWN AT RANDOM. </tspan><tspan x="0" y="20.97" class="st8 st9 st11">THE NUMBERS 1-4 DETERMINE THE SHAPE + COLOR </tspan><tspan x="0" y="41.94" class="st8 st9 st11">OF THE DRAWN OBJECT.</tspan><tspan x="0" y="83.87" class="st8 st9 st11">THE DRAWING DIRECTION IS ALWAYS TO THE RIGHT, ENCLOSED WITHIN</tspan><tspan x="0" y="104.84" class="st8 st9 st11">A FRAME. ANY EXCESS OF THE SHAPE IS CONTINUED IN THE NEXT ROW. WHEN</tspan><tspan x="0" y="125.81" class="st8 st9 st11">THE FRAME IS FULL THE DRAWING PROCESS CAN BE RESTARTED WITH A MOUSE CLICK</tspan><tspan x="0" y="146.78" class="st8 st9 st11">IN ANY AREA. </tspan><tspan x="0" y="188.71" class="st8 st9 st11">EACH NUMBER REPRESENTS THE FIXED SIZE AND COLOR OF THE SHAPE:</tspan><tspan x="0" y="209.68" class="st7 st9 st11">1 = Y; 2 = YX2; 3 = YX3; 4 = YX4</tspan></text>
+</g>
+<g id="Sun_-_button">
+</g>
+<g id="CLOUD_BUTTONS">
+</g>
+<g id="tomato_button">
+</g>
+</svg>
